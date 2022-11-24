@@ -1,7 +1,7 @@
 # Cristo
 
 *Take a look of my programming language preference!*
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Cristo&count_private=true)](https://github.com/Christmas/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Cristo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Christmas/github-readme-stats)
 
 *Also my github statistics:*
 > ![Licheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=De-Cristo&count_private=true&show_icons=true&theme=tokyonight)
